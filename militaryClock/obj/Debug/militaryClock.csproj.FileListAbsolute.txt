@@ -1,0 +1,7 @@
+c:\users\jodimae\source\repos\militaryClock\militaryClock\obj\Debug\militaryClock.csprojResolveAssemblyReference.cache
+c:\users\jodimae\source\repos\militaryClock\militaryClock\obj\Debug\militaryClock.csproj.CoreCompileInputs.cache
+c:\users\jodimae\source\repos\militaryClock\militaryClock\bin\Debug\militaryClock.exe.config
+c:\users\jodimae\source\repos\militaryClock\militaryClock\bin\Debug\militaryClock.exe
+c:\users\jodimae\source\repos\militaryClock\militaryClock\bin\Debug\militaryClock.pdb
+c:\users\jodimae\source\repos\militaryClock\militaryClock\obj\Debug\militaryClock.exe
+c:\users\jodimae\source\repos\militaryClock\militaryClock\obj\Debug\militaryClock.pdb
